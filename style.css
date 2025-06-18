@@ -1,0 +1,98 @@
+
+*{
+    padding: 0;
+margin: 0;
+}
+
+.section--one {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+
+}
+
+.section--one p{
+    color: white;
+}
+
+.section--two{
+    background-color: #ffffff;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+
+}
+
+.section--three{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    justify-content: center;
+    font-weight: 600;
+}
+
+.contact--for__table{
+    display: inline-block;
+    
+}
+   
+
+.section--three__button { 
+    background-color:#ca0b07;
+    color: black;
+    border: solid black 2px;
+    margin-top: 10px;
+    padding:10px 200px;
+    border-radius: 20px;
+}
+
+.contact--form__input{
+   
+    padding-right: 50px;
+    padding-left:5px ;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 10px;
+    border-radius: 10px;
+
+
+}
+.card{
+    width: 200px;
+    border: solid black 2px;
+    display: inline-block;
+    text-align: center;
+    padding: 10px;
+    border-radius: 2px;
+
+}
+
+.card__button{
+    background-color: yellowgreen;
+    color: black;
+    border: 1px black solid;
+    border-radius: 3px;
+    padding: 5px 10px;
+    margin-top: 10px;
+}
+
+.card__button:hover{
+    background-color: blue;
+    color: black;
+    border: 3px solid red;
+}
+
+img{
+    height: 300px;
+    width: 200px;
+}
+
+table
+{
+    justify-self: center;
+}
+
+
+
